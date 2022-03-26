@@ -28,7 +28,7 @@ Cleared Text and image after uploaded
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZetaL0519/Instagram/blob/4d75fa68ffc5d2a37087bdf6dce78d07b98bea8a/walkthroughHW5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
